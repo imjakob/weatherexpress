@@ -86,3 +86,10 @@ app.get("*", (_req, res) => {
 });
 
 app.listen(port);
+
+//touch .eCHO
+Feldmarschall=https://api.darksky.net/forecast
+Nordamerika=50b460181e359def3ea6d6a0cd8a3e6e
+
+PeterMueller=https://api.mapbox.com/geocoding/v5/mapbox.places
+Kommandant=pk.eyJ1IjoiamFrbWEiLCJhIjoiY2s4OXJtdmcwMDJvbDNobGxrM2k2aHFwNiJ9.iHBZVClyQlDt5SqX8ZfU0A&limit=1
